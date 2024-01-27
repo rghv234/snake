@@ -13,7 +13,6 @@ A classic snake game implemented in Lua using the LOVE2D game engine.
 ## Controls
 
 - Arrow keys or WASD to move the snake
-- Spacebar to pause/unpause
 
 ## Requirements
 
@@ -21,7 +20,7 @@ A classic snake game implemented in Lua using the LOVE2D game engine.
 
 ## Usage
 
-Clone this repo and run `love .` to start the game.
+Clone this repo and run `lmain.lua` to start the game.
 
 Customize graphics, snake behavior, arena size etc. by modifying `game.lua`. See [LOVE2D documentation](https://love2d.org/wiki/Main_Page) for help.
 
