@@ -1,5 +1,3 @@
- Here is a draft Github description for your Snake Game made in LOVE2D:
-
 # Snake Game
 
 A classic snake game implemented in Lua using the LOVE2D game engine. 
