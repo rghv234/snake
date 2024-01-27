@@ -23,7 +23,7 @@ A classic snake game implemented in Lua using the LOVE2D game engine.
 
 Clone this repo and run `love .` to start the game.
 
-Customize graphics, snake behavior, arena size etc. by modifying `main.lua`. See [LOVE2D documentation](https://love2d.org/wiki/Main_Page) for help.
+Customize graphics, snake behavior, arena size etc. by modifying `game.lua`. See [LOVE2D documentation](https://love2d.org/wiki/Main_Page) for help.
 
 ## Credits
 
