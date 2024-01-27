@@ -32,3 +32,7 @@ Snake game concept originally created by Gremlin Industries and published by Ata
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Preview
+
+https://www.youtube.com/watch?v=Dl2l-wuVt8U
